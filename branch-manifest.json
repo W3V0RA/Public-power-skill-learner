@@ -1,0 +1,140 @@
+{
+  "schema_version": 1,
+  "remote_verified": false,
+  "baseline": "fc13790d5151f54454cdcdcfd039f685a893e489",
+  "branches": [
+    {
+      "number": 1,
+      "branch": "skill/001-shadow-mode-and-promotion-gates",
+      "commit": "4183af1da79bdb7a922a1dd90dff4bddb0bda117",
+      "lesson_sha256": "0a5eea6cbd7b4d111b7c68b1fec4cd40dfbfe1a12044e57c1d067d0a778463e9",
+      "remote_verified": false
+    },
+    {
+      "number": 2,
+      "branch": "skill/002-context-compilation",
+      "commit": "96366d21c713685147786f5802bbba6955395a97",
+      "lesson_sha256": "ca894e4f0cf78711b0ed046b0d2312ed539a9e014cb8338fce0fe08adcd40254",
+      "remote_verified": false
+    },
+    {
+      "number": 3,
+      "branch": "skill/003-schema-first-agent-design",
+      "commit": "dec39ce334a36399a77a443272045115b5a258d6",
+      "lesson_sha256": "7957d2e0a55870e316b071d9c8b70a4284eed9508fad53f6770b1b8334fa4b99",
+      "remote_verified": false
+    },
+    {
+      "number": 4,
+      "branch": "skill/004-idempotent-event-sourced-workflows",
+      "commit": "1661ddbb2afe765b3f584e2f21a1d2ebbaec6825",
+      "lesson_sha256": "49da26da276620b4951c19a5c1e18499ceea4aa91b40acd07c214b3230ce9df7",
+      "remote_verified": false
+    },
+    {
+      "number": 5,
+      "branch": "skill/005-confidence-gated-model-cascading",
+      "commit": "8cb109568ce9fdbf4dddd30e82eb74e908f11912",
+      "lesson_sha256": "f2111420e3e5830834cdcd94fd312fdf69c39d2389c7b1ab0c4567426da1f67c",
+      "remote_verified": false
+    },
+    {
+      "number": 6,
+      "branch": "skill/006-capability-graph-orchestration",
+      "commit": "502e68987dc0f9f7d51d4fbd0763c4f9b558fb61",
+      "lesson_sha256": "675852c9eba919b2b43b926f4473660d23f9a8abf930f34b3ea487a538c3c7d9",
+      "remote_verified": false
+    },
+    {
+      "number": 7,
+      "branch": "skill/007-active-learning-and-disagreement-sampling",
+      "commit": "1a6d14e5887ee1639e9e8ecaaa5a7885734b49df",
+      "lesson_sha256": "1f7babb9bba34e1664e7d83cb400b856d19c5592d753f5214afcc3c12cc30572",
+      "remote_verified": false
+    },
+    {
+      "number": 8,
+      "branch": "skill/008-counterfactual-testing",
+      "commit": "cd9b31abde231c5fca8e00fb81345593a0781f46",
+      "lesson_sha256": "7f474e543ba788a28dcda85646e6a628536c2e3c005e14e2ea7d6221050178ba",
+      "remote_verified": false
+    },
+    {
+      "number": 9,
+      "branch": "skill/009-proof-of-problem-agents",
+      "commit": "dd5a0fdfff2911b656ae2603fa33d29dbb3cb3b8",
+      "lesson_sha256": "4fa75a8c61902a85591956bf9f1fb49162ddfca1b913a43861d80ed7d06d6e0c",
+      "remote_verified": false
+    },
+    {
+      "number": 10,
+      "branch": "skill/010-answerability-gated-retrieval",
+      "commit": "3dd598907d0f661165d4fd3197058d015c4e6f2e",
+      "lesson_sha256": "c473f0246c39c7f8f80195505fda1034c1a3cc8436e3a5f41748217eb25c60ed",
+      "remote_verified": false
+    },
+    {
+      "number": 11,
+      "branch": "skill/011-evidence-bound-action-approvals",
+      "commit": "724a15935121ec877e7cfb4024cb0eb8274d7d87",
+      "lesson_sha256": "ac50e6d64b6560ddadc3b3419bf487f61c78f5e8536c52c0532adc761d6cb4d9",
+      "remote_verified": false
+    },
+    {
+      "number": 12,
+      "branch": "skill/012-bitemporal-truth-maintenance",
+      "commit": "621453a54eafdc02c95a3f21878156c907d52533",
+      "lesson_sha256": "7d0990b8f2410c7881fd1bd0010283e2603bec7674926d804fed9feeb48253dd",
+      "remote_verified": false
+    },
+    {
+      "number": 13,
+      "branch": "skill/013-just-in-time-tool-discovery",
+      "commit": "f656f5e5e9436e8fb827e45398857613a0f2962c",
+      "lesson_sha256": "27b4001dbd8f7761ec808fb1d88aeeb79f5be200fa077433f37f67597043cdde",
+      "remote_verified": false
+    },
+    {
+      "number": 14,
+      "branch": "skill/014-process-mining",
+      "commit": "22df014c2fa3c0f770efdc17a4cc0738ea60c138",
+      "lesson_sha256": "8fa8ca4d9469f1f8151bd7d66832f5762fb35e77bc38ed4267e7f767166dde18",
+      "remote_verified": false
+    },
+    {
+      "number": 15,
+      "branch": "skill/015-metamorphic-testing",
+      "commit": "c727a7801075c159ea3a3c2b2c7b962ca269cae1",
+      "lesson_sha256": "5a476c85d74890dc4ba7a56dbf80556edeb48f7c3ce64b70158862f9abb11e25",
+      "remote_verified": false
+    },
+    {
+      "number": 16,
+      "branch": "skill/016-end-to-end-evidence-chain-auditing",
+      "commit": "487470dc89eb76a36c2c3bd8734685edb3925dda",
+      "lesson_sha256": "bec24b889891b04280265a586e06719c3da2586e3673c3c3363282b822593db9",
+      "remote_verified": false
+    },
+    {
+      "number": 17,
+      "branch": "skill/017-quarantined-external-agent-handoffs",
+      "commit": "d9040dba84e71d1c61184c18ffe9db63d2dfb1f0",
+      "lesson_sha256": "997129627689bcf231d35a7efd3eaa2fc3f72138f7ff7a21ad7bd7f25ad23170",
+      "remote_verified": false
+    },
+    {
+      "number": 18,
+      "branch": "skill/018-multimodal-visual-regression-contracts",
+      "commit": "14ea94269873d0cf1557df23459518e32715aa19",
+      "lesson_sha256": "89db7236aadd3d6ba12b37de0102050a75bf3a2b02a9324d825f561c8a7b3ee0",
+      "remote_verified": false
+    },
+    {
+      "number": 19,
+      "branch": "skill/019-executable-business-promise-contracts",
+      "commit": "b16a10d264171784db00a848482bd8feeb44f1ed",
+      "lesson_sha256": "a9ee0e668814abeb47d1028409fa161fd4b3797c2785fb9574ff001bd0c3ffc6",
+      "remote_verified": false
+    }
+  ]
+}

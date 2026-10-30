@@ -1,0 +1,16 @@
+name: Public learner checks
+on:
+  push:
+    branches: [main, 'skill/**']
+  pull_request:
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - name: Python verification
+        run: |
+          python3 scripts/validate_public.py
+          python3 -m unittest discover -s tests -v

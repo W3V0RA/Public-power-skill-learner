@@ -1,0 +1,10 @@
+# Learner profiles, plans and credentials never belong in shared course history.
+.local/
+.env
+.env.*
+!*.example
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+*.log

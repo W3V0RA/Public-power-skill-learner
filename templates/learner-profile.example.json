@@ -1,0 +1,15 @@
+{
+  "profile_version": 1,
+  "goal": "Reduce processing errors in a fictional request queue",
+  "project": "Fictional intake sandbox",
+  "experience": "intermediate",
+  "domain": "operations",
+  "tools": "Python, spreadsheet",
+  "session_minutes": 30,
+  "cadence": "every_other_day",
+  "budget": "free_only",
+  "application_mode": "dry_run",
+  "privacy_rule": "Use synthetic records only",
+  "success_metric": "Reduction in verified classification errors",
+  "retention_method": "short_practice_reps"
+}
