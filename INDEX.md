@@ -24,4 +24,6 @@ All lesson scenarios are generic, fictional and independently adapted for the pu
 | 18 | [Multimodal Visual Regression Contracts](lessons/018-multimodal-visual-regression-contracts/lesson.md) | `skill/018-multimodal-visual-regression-contracts` | Educational, not practiced |
 | 19 | [Executable Business Promise Contracts](lessons/019-executable-business-promise-contracts/lesson.md) | `skill/019-executable-business-promise-contracts` | Educational, not practiced |
 
+| 20 | [Privacy-Tiered Model Routing](lessons/020-privacy-tiered-model-routing/lesson.md) | `skill/020-privacy-tiered-model-routing` | Educational, not practiced |
+
 Each branch retains its own lesson. This public index is a curriculum, not a release log for anyone’s private projects. Start with the [interview](docs/INTERVIEW.md) or the local `python3 scripts/interview.py` command.
