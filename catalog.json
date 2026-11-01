@@ -232,6 +232,18 @@
       "sha256": "a9ee0e668814abeb47d1028409fa161fd4b3797c2785fb9574ff001bd0c3ffc6",
       "branch_commit": "b16a10d264171784db00a848482bd8feeb44f1ed",
       "remote_status": "NOT_PUSHED"
+    },
+    {
+      "number": 20,
+      "title": "Privacy-Tiered Model Routing",
+      "branch": "skill/020-privacy-tiered-model-routing",
+      "path": "lessons/020-privacy-tiered-model-routing/lesson.md",
+      "edition_date": "2026-10-31",
+      "source_type": "independent_public_adaptation",
+      "learner_practice_status": "PENDING",
+      "sha256": "2288a162b5e74f029c53f7c5bddb5c3ccc7c0e4f88b4d54d8198822284c079fb",
+      "branch_commit": "9e66cc2b026ff70dc3c1994147e23ef68405b6c3",
+      "remote_status": "REMOTE_COMMITTED"
     }
   ],
   "privacy_policy": "docs/PRIVACY_AND_SAFETY.md",
