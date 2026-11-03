@@ -244,6 +244,18 @@
       "sha256": "2288a162b5e74f029c53f7c5bddb5c3ccc7c0e4f88b4d54d8198822284c079fb",
       "branch_commit": "9e66cc2b026ff70dc3c1994147e23ef68405b6c3",
       "remote_status": "REMOTE_COMMITTED"
+    },
+    {
+      "number": 21,
+      "title": "Delivered-Artifact Probes for Coding Agents",
+      "branch": "skill/021-delivered-artifact-probes",
+      "path": "lessons/021-delivered-artifact-probes/lesson.md",
+      "edition_date": "2026-11-02",
+      "source_type": "independent_public_adaptation",
+      "learner_practice_status": "PENDING",
+      "sha256": "6f000d54fdb72059baee8a470e55d43978e371acb05179a0a930fab71b3cb158",
+      "branch_commit": "4b91688dd1a507aff44639b564128ce16cabef09",
+      "remote_status": "REMOTE_COMMITTED"
     }
   ],
   "privacy_policy": "docs/PRIVACY_AND_SAFETY.md",
