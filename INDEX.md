@@ -28,4 +28,6 @@ All lesson scenarios are generic, fictional and independently adapted for the pu
 
 | 21 | [Delivered-Artifact Probes for Coding Agents](lessons/021-delivered-artifact-probes/lesson.md) | `skill/021-delivered-artifact-probes` | Educational, not practiced |
 
+| 22 | [Evidence-Bound Funnel Attribution](lessons/022-evidence-bound-funnel-attribution/lesson.md) | `skill/022-evidence-bound-funnel-attribution` | Educational, not practiced |
+
 Each branch retains its own lesson. This public index is a curriculum, not a release log for anyone’s private projects. Start with the [interview](docs/INTERVIEW.md) or the local `python3 scripts/interview.py` command.
