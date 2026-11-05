@@ -256,6 +256,18 @@
       "sha256": "6f000d54fdb72059baee8a470e55d43978e371acb05179a0a930fab71b3cb158",
       "branch_commit": "4b91688dd1a507aff44639b564128ce16cabef09",
       "remote_status": "REMOTE_COMMITTED"
+    },
+    {
+      "number": 22,
+      "title": "Evidence-Bound Funnel Attribution",
+      "branch": "skill/022-evidence-bound-funnel-attribution",
+      "path": "lessons/022-evidence-bound-funnel-attribution/lesson.md",
+      "edition_date": "2026-11-04",
+      "source_type": "independent_public_adaptation",
+      "learner_practice_status": "PENDING",
+      "sha256": "e64e83e3a2a7703acc4564502abdd7f5b18a11a59cc125c309c2c5392b22e7ef",
+      "branch_commit": "2f53fa6153c191df0b24891641e3dcf9a169bf1c",
+      "remote_status": "REMOTE_COMMITTED"
     }
   ],
   "privacy_policy": "docs/PRIVACY_AND_SAFETY.md",
