@@ -30,4 +30,6 @@ All lesson scenarios are generic, fictional and independently adapted for the pu
 
 | 22 | [Evidence-Bound Funnel Attribution](lessons/022-evidence-bound-funnel-attribution/lesson.md) | `skill/022-evidence-bound-funnel-attribution` | Educational, not practiced |
 
+| 23 | [Precommitted Evidence Gates for AI-Assisted Experiments](lessons/023-precommitted-evidence-gates/lesson.md) | `skill/023-precommitted-evidence-gates` | Educational, not practiced |
+
 Each branch retains its own lesson. This public index is a curriculum, not a release log for anyone’s private projects. Start with the [interview](docs/INTERVIEW.md) or the local `python3 scripts/interview.py` command.
