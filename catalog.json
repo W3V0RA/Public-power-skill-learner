@@ -268,6 +268,18 @@
       "sha256": "e64e83e3a2a7703acc4564502abdd7f5b18a11a59cc125c309c2c5392b22e7ef",
       "branch_commit": "2f53fa6153c191df0b24891641e3dcf9a169bf1c",
       "remote_status": "REMOTE_COMMITTED"
+    },
+    {
+      "number": 23,
+      "title": "Precommitted Evidence Gates for AI-Assisted Experiments",
+      "branch": "skill/023-precommitted-evidence-gates",
+      "path": "lessons/023-precommitted-evidence-gates/lesson.md",
+      "edition_date": "2026-11-06",
+      "source_type": "independent_public_adaptation",
+      "learner_practice_status": "PENDING",
+      "sha256": "f2d8bcfe43d4e714c26cf63591aaec0526563d6f7cddff92409119fac88bed15",
+      "branch_commit": "0039f2c3cff1ed3e8ae8e46d7b9d3e4bcef580a5",
+      "remote_status": "REMOTE_COMMITTED"
     }
   ],
   "privacy_policy": "docs/PRIVACY_AND_SAFETY.md",
