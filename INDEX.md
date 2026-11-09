@@ -32,4 +32,6 @@ All lesson scenarios are generic, fictional and independently adapted for the pu
 
 | 23 | [Precommitted Evidence Gates for AI-Assisted Experiments](lessons/023-precommitted-evidence-gates/lesson.md) | `skill/023-precommitted-evidence-gates` | Educational, not practiced |
 
+| 24 | [Value-of-Information Gated Research](lessons/024-value-of-information-gated-research/lesson.md) | `skill/024-value-of-information-gated-research` | Educational, not practiced |
+
 Each branch retains its own lesson. This public index is a curriculum, not a release log for anyone’s private projects. Start with the [interview](docs/INTERVIEW.md) or the local `python3 scripts/interview.py` command.
