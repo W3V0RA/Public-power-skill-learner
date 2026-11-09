@@ -280,6 +280,18 @@
       "sha256": "f2d8bcfe43d4e714c26cf63591aaec0526563d6f7cddff92409119fac88bed15",
       "branch_commit": "0039f2c3cff1ed3e8ae8e46d7b9d3e4bcef580a5",
       "remote_status": "REMOTE_COMMITTED"
+    },
+    {
+      "number": 24,
+      "title": "Value-of-Information Gated Research",
+      "branch": "skill/024-value-of-information-gated-research",
+      "path": "lessons/024-value-of-information-gated-research/lesson.md",
+      "edition_date": "2026-11-08",
+      "source_type": "independent_public_adaptation",
+      "learner_practice_status": "PENDING",
+      "sha256": "0892e2e7d26b4bbdfae3f8160e93358c2155fb49a56f773951e52f1dfc642979",
+      "branch_commit": "a196a62b7a862b70d66ba80e07a11df0ecd2eafd",
+      "remote_status": "REMOTE_COMMITTED"
     }
   ],
   "privacy_policy": "docs/PRIVACY_AND_SAFETY.md",
