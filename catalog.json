@@ -302,8 +302,8 @@
       "source_type": "independent_public_adaptation",
       "learner_practice_status": "PENDING",
       "sha256": "29fe951a109e7aabfa14de85c2021dda89c0502dabe2455bedec1a2532b76aa3",
-      "branch_commit": null,
-      "remote_status": "REMOTE_COMMITTED"
+      "branch_commit": "7f3dab09f831cd19fcb2df7c23a6edc13cb944e7",
+      "remote_status": "REMOTE_MERGED"
     }
   ],
   "privacy_policy": "docs/PRIVACY_AND_SAFETY.md",
