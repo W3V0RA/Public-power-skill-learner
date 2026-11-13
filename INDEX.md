@@ -36,4 +36,7 @@ All lesson scenarios are generic, fictional and independently adapted for the pu
 
 | 25 | [Stale-Worker Fencing for Autonomous Agents](lessons/025-stale-worker-fencing/lesson.md) | `skill/025-stale-worker-fencing` | Educational, not practiced |
 
+
+| 26 | [Write-Ahead Compensation Ledgers for Agent Workflows](lessons/026-write-ahead-compensation-ledgers/lesson.md) | `skill/026-write-ahead-compensation-ledgers` | Educational, not practiced |
+
 Each branch retains its own lesson. This public index is a curriculum, not a release log for anyone’s private projects. Start with the [interview](docs/INTERVIEW.md) or the local `python3 scripts/interview.py` command.
