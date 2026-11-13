@@ -304,6 +304,18 @@
       "sha256": "29fe951a109e7aabfa14de85c2021dda89c0502dabe2455bedec1a2532b76aa3",
       "branch_commit": "7f3dab09f831cd19fcb2df7c23a6edc13cb944e7",
       "remote_status": "REMOTE_MERGED"
+    },
+    {
+      "number": 26,
+      "title": "Write-Ahead Compensation Ledgers for Agent Workflows",
+      "branch": "skill/026-write-ahead-compensation-ledgers",
+      "path": "lessons/026-write-ahead-compensation-ledgers/lesson.md",
+      "edition_date": "2026-11-12",
+      "source_type": "independent_public_adaptation",
+      "learner_practice_status": "PENDING",
+      "sha256": "9e565583b54abdb9f792b0a4eae41ff39dd15a80c562da0674acfa776b30a1aa",
+      "branch_commit": null,
+      "remote_status": "REMOTE_COMMITTED"
     }
   ],
   "privacy_policy": "docs/PRIVACY_AND_SAFETY.md",
