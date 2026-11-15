@@ -18,3 +18,13 @@ Verified on 2026-10-30 through the connected GitHub integration.
 The next lesson is **#020**, unless a newer verified lesson exists. Maintain one retained numbered branch per new public lesson, generalize examples without referring to specific private learners or their data, run the safety checks, integrate into the main index, and verify the remote result.
 
 Anyone copying this project should start with `README.md`, `docs/IMPLEMENTATION.md` and `scripts/interview.py`. Generated personal profiles must remain in excluded local files.
+## Skill #027 continuation
+
+- Lesson: **Capability-Bound Tool Authorization** (2026-11-14).
+- Retained branch: `skill/027-capability-bound-tool-authorization` at `0b166be5cce27930ad207d045ac5cd4abb3a6c83`.
+- Pull request: #8, merged into `main` as `c012c56a4188d314dbd9a65ffe4f5bc59858eb13`.
+- Public learner checks: run `43662190931`, **success**.
+- Public lesson SHA-256: `7feb8f8507d8f6032aa6fbc4a6f3f336b466d95160d98b4a124b842ca8a509e6`.
+- Privacy review: independently generalized lesson; heuristic scan and manual review found no private learner, venture, repository, email, credential or private-link disclosure.
+- Practice status: **PENDING**.
+- Next lesson: **#028**, unless a newer verified output exists.
