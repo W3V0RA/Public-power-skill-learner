@@ -316,6 +316,18 @@
       "sha256": "9e565583b54abdb9f792b0a4eae41ff39dd15a80c562da0674acfa776b30a1aa",
       "branch_commit": "14f2c0e0872d660663d67b768e07a8f32b8eb969",
       "remote_status": "REMOTE_MERGED"
+    },
+    {
+      "number": 27,
+      "title": "Capability-Bound Tool Authorization",
+      "branch": "skill/027-capability-bound-tool-authorization",
+      "path": "lessons/027-capability-bound-tool-authorization/lesson.md",
+      "edition_date": "2026-11-14",
+      "source_type": "independent_public_adaptation",
+      "learner_practice_status": "PENDING",
+      "sha256": "7feb8f8507d8f6032aa6fbc4a6f3f336b466d95160d98b4a124b842ca8a509e6",
+      "branch_commit": "1d011984acbd2c5e72aa7f841a2699e50dcc2af7",
+      "remote_status": "REMOTE_COMMITTED"
     }
   ],
   "privacy_policy": "docs/PRIVACY_AND_SAFETY.md",
