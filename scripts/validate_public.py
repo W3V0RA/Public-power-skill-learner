@@ -11,8 +11,10 @@ def validate():
     cat=json.loads((ROOT/'catalog.json').read_text())
     rows=cat.get('lessons',[])
     if cat.get('visibility_intent') != 'public': errors.append('not declared public')
-    if [r.get('number') for r in rows] != list(range(1,28)):
-        errors.append('expected contiguous public lessons #1-#27')
+    lesson_numbers=[r.get('number') for r in rows]
+    expected_numbers=list(range(1, max(lesson_numbers, default=0)+1))
+    if lesson_numbers != expected_numbers:
+        errors.append('expected contiguous public lessons starting at #1')
     if len({r.get('branch') for r in rows}) != len(rows):
         errors.append('duplicate branches')
     forbidden_patterns=[
@@ -43,6 +45,7 @@ def validate():
         for pat,label in forbidden_patterns:
             if re.search(pat,data):errors.append(f'{path}: potential {label}')
     return errors
+
 
 if __name__=='__main__':
     problems=validate()

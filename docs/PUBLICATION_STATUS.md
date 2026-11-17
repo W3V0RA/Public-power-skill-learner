@@ -28,3 +28,13 @@ Anyone copying this project should start with `README.md`, `docs/IMPLEMENTATION.
 - Privacy review: independently generalized lesson; heuristic scan and manual review found no private learner, venture, repository, email, credential or private-link disclosure.
 - Practice status: **PENDING**.
 - Next lesson: **#028**, unless a newer verified output exists.
+
+## Skill #028 continuation
+
+- Lesson: **Consumer-Driven Contract Testing for Agent Tools** (2026-11-16).
+- Retained branch: `skill/028-consumer-driven-contract-testing`.
+- Public edition: independently authored with generic roles and fictional examples.
+- Public lesson SHA-256: `8d82d418562b9032eea5222f99f9b17b345d7139f2c0d70673883290f9019109`.
+- Privacy review: heuristic scan and manual review found no private learner, venture, repository, person, customer, email, credential, private URL, financial or proprietary architecture detail.
+- Practice status: **PENDING**.
+- Next lesson: **#029**, unless a newer verified output exists.

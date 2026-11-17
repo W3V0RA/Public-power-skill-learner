@@ -41,4 +41,6 @@ All lesson scenarios are generic, fictional and independently adapted for the pu
 
 | 27 | [Capability-Bound Tool Authorization](lessons/027-capability-bound-tool-authorization/lesson.md) | `skill/027-capability-bound-tool-authorization` | Educational, not practiced |
 
+| 28 | [Consumer-Driven Contract Testing for Agent Tools](lessons/028-consumer-driven-contract-testing/lesson.md) | `skill/028-consumer-driven-contract-testing` | Educational, not practiced |
+
 Each branch retains its own lesson. This public index is a curriculum, not a release log for anyone’s private projects. Start with the [interview](docs/INTERVIEW.md) or the local `python3 scripts/interview.py` command.
