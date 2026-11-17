@@ -338,7 +338,7 @@
       "source_type": "independent_public_adaptation",
       "learner_practice_status": "PENDING",
       "sha256": "8d82d418562b9032eea5222f99f9b17b345d7139f2c0d70673883290f9019109",
-      "branch_commit": "PENDING_CURRENT_BRANCH_HEAD",
+      "branch_commit": "76d8a15f7873763cea2f6b087a7ab017cecc2158",
       "remote_status": "REMOTE_BRANCH_COMMITTED"
     }
   ],
