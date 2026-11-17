@@ -32,7 +32,9 @@ Anyone copying this project should start with `README.md`, `docs/IMPLEMENTATION.
 ## Skill #028 continuation
 
 - Lesson: **Consumer-Driven Contract Testing for Agent Tools** (2026-11-16).
-- Retained branch: `skill/028-consumer-driven-contract-testing`.
+- Retained branch: `skill/028-consumer-driven-contract-testing`; lesson commit `76d8a15f7873763cea2f6b087a7ab017cecc2158`.
+- Pull request: #9, merged into `main` as `89a94bfe4033eeb117fc3c3086444c8ff655dd91`.
+- Public learner checks: run `43996389059`, **success**.
 - Public edition: independently authored with generic roles and fictional examples.
 - Public lesson SHA-256: `8d82d418562b9032eea5222f99f9b17b345d7139f2c0d70673883290f9019109`.
 - Privacy review: heuristic scan and manual review found no private learner, venture, repository, person, customer, email, credential, private URL, financial or proprietary architecture detail.
