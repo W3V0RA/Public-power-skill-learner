@@ -49,5 +49,7 @@ Anyone copying this project should start with `README.md`, `docs/IMPLEMENTATION.
 - Public edition: independently authored with generic roles and fictional examples.
 - Public lesson SHA-256: `1e91cdb05722762bc6d482a391c719c1a4e48a30772cd0d1ecb7e0bc8264fa65`.
 - Privacy review: heuristic scan and manual review found no private learner, venture, repository, person, customer, email, credential, private URL, financial or proprietary architecture detail.
+- Pull request: #10, merged into `main` as `7a91874245e4f8c43061847813eb4bb3a0a94984`.
+- Public learner checks: run `44434448590`, **success**.
 - Practice status: **PENDING**.
 - Next lesson: **#030**, unless a newer verified output exists.
