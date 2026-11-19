@@ -40,3 +40,14 @@ Anyone copying this project should start with `README.md`, `docs/IMPLEMENTATION.
 - Privacy review: heuristic scan and manual review found no private learner, venture, repository, person, customer, email, credential, private URL, financial or proprietary architecture detail.
 - Practice status: **PENDING**.
 - Next lesson: **#029**, unless a newer verified output exists.
+
+
+## Skill #029 continuation
+
+- Lesson: **Agent Trace Conformance Testing** (2026-11-18).
+- Retained branch: `skill/029-agent-trace-conformance-testing`; lesson commit `f8396355f8152d6cc379176848249dcb3552bb7f`.
+- Public edition: independently authored with generic roles and fictional examples.
+- Public lesson SHA-256: `1e91cdb05722762bc6d482a391c719c1a4e48a30772cd0d1ecb7e0bc8264fa65`.
+- Privacy review: heuristic scan and manual review found no private learner, venture, repository, person, customer, email, credential, private URL, financial or proprietary architecture detail.
+- Practice status: **PENDING**.
+- Next lesson: **#030**, unless a newer verified output exists.
