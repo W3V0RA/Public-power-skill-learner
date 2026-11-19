@@ -351,7 +351,7 @@
       "learner_practice_status": "PENDING",
       "sha256": "1e91cdb05722762bc6d482a391c719c1a4e48a30772cd0d1ecb7e0bc8264fa65",
       "branch_commit": "f8396355f8152d6cc379176848249dcb3552bb7f",
-      "remote_status": "REMOTE_COMMITTED"
+      "remote_status": "REMOTE_MERGED"
     }
   ],
   "privacy_policy": "docs/PRIVACY_AND_SAFETY.md",
