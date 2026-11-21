@@ -352,6 +352,18 @@
       "sha256": "1e91cdb05722762bc6d482a391c719c1a4e48a30772cd0d1ecb7e0bc8264fa65",
       "branch_commit": "f8396355f8152d6cc379176848249dcb3552bb7f",
       "remote_status": "REMOTE_MERGED"
+    },
+    {
+      "number": 30,
+      "title": "Subject-Preserving Service Delegation",
+      "branch": "skill/030-subject-preserving-service-delegation",
+      "path": "lessons/030-subject-preserving-service-delegation/lesson.md",
+      "edition_date": "2026-11-20",
+      "source_type": "independent_public_adaptation",
+      "learner_practice_status": "PENDING",
+      "sha256": "63b832069d9a130e07e14781fe056291d18a622e19282ec180c1de891fa3763d",
+      "branch_commit": "541565631f35835495d0910e27fe5cafb815aeb0",
+      "remote_status": "REMOTE_COMMITTED"
     }
   ],
   "privacy_policy": "docs/PRIVACY_AND_SAFETY.md",
