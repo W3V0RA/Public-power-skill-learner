@@ -127,7 +127,7 @@ Trace one authenticated user request through an application and a downstream ser
 
 Answers: delegation is a separate authority; actor/subject continuity failed; validate the consumer’s minimum required fields while permitting compatible additive provider data.
 
-## Today’s challenge
+## Daily challenge
 
 Write a six-field delegation card for one automation: actor, subject, authority, resource, purpose, and expiry. Add: “This request must fail when ___.” Use it to review one real service boundary today.
 
