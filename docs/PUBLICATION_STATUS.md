@@ -53,3 +53,14 @@ Anyone copying this project should start with `README.md`, `docs/IMPLEMENTATION.
 - Public learner checks: run `44434448590`, **success**.
 - Practice status: **PENDING**.
 - Next lesson: **#030**, unless a newer verified output exists.
+
+
+## Skill #030 continuation
+
+- Lesson: **Subject-Preserving Service Delegation** (2026-11-20).
+- Retained branch: `skill/030-subject-preserving-service-delegation`; lesson commit `541565631f35835495d0910e27fe5cafb815aeb0`.
+- Public edition: independently authored with generic roles and fictional examples.
+- Public lesson SHA-256: `7b8ddae910275905f749b93ac31d0a87633c59b26b053af0f4a8120ede2030ec`.
+- Privacy review: heuristic scan and manual review found no private learner, venture, repository, person, customer, email, credential, private URL, financial or proprietary implementation detail.
+- Practice status: **PENDING**.
+- Next lesson: **#031**, unless a newer verified output exists.
