@@ -45,4 +45,6 @@ All lesson scenarios are generic, fictional and independently adapted for the pu
 
 | 29 | [Agent Trace Conformance Testing](lessons/029-agent-trace-conformance-testing/lesson.md) | `skill/029-agent-trace-conformance-testing` | Educational, not practiced |
 
+| 30 | [Subject-Preserving Service Delegation](lessons/030-subject-preserving-service-delegation/lesson.md) | `skill/030-subject-preserving-service-delegation` | Educational, not practiced |
+
 Each branch retains its own lesson. This public index is a curriculum, not a release log for anyone’s private projects. Start with the [interview](docs/INTERVIEW.md) or the local `python3 scripts/interview.py` command.
