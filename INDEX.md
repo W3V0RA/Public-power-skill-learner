@@ -47,4 +47,6 @@ All lesson scenarios are generic, fictional and independently adapted for the pu
 
 | 30 | [Subject-Preserving Service Delegation](lessons/030-subject-preserving-service-delegation/lesson.md) | `skill/030-subject-preserving-service-delegation` | Educational, not practiced |
 
+| 31 | [Leakage-Proof As-Of Evaluation](lessons/031-leakage-proof-as-of-evaluation/lesson.md) | `skill/031-leakage-proof-as-of-evaluation` | Educational, not practiced |
+
 Each branch retains its own lesson. This public index is a curriculum, not a release log for anyone’s private projects. Start with the [interview](docs/INTERVIEW.md) or the local `python3 scripts/interview.py` command.

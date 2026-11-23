@@ -364,6 +364,18 @@
       "sha256": "63b832069d9a130e07e14781fe056291d18a622e19282ec180c1de891fa3763d",
       "branch_commit": "541565631f35835495d0910e27fe5cafb815aeb0",
       "remote_status": "REMOTE_COMMITTED"
+    },
+    {
+      "number": 31,
+      "title": "Leakage-Proof As-Of Evaluation",
+      "branch": "skill/031-leakage-proof-as-of-evaluation",
+      "path": "lessons/031-leakage-proof-as-of-evaluation/lesson.md",
+      "edition_date": "2026-11-22",
+      "source_type": "independent_public_adaptation",
+      "learner_practice_status": "PENDING",
+      "sha256": "ac34cf45717f57a9d5ee296100788dacfc7dd27fa755d5fc938350dbd2d0eb7d",
+      "branch_commit": "97c5a043f043461a410c2fd0c5313ac48367c02c",
+      "remote_status": "REMOTE_COMMITTED"
     }
   ],
   "privacy_policy": "docs/PRIVACY_AND_SAFETY.md",
