@@ -64,4 +64,13 @@ Anyone copying this project should start with `README.md`, `docs/IMPLEMENTATION.
 - Privacy review: heuristic scan and manual review found no private learner, venture, repository, person, customer, email, credential, private URL, financial or proprietary implementation detail.
 - Practice status: **PENDING**.
 - Next lesson: **#031**, unless a newer verified output exists.
-\n## Skill #031 continuation\n\n- Lesson: **Leakage-Proof As-Of Evaluation** (2026-11-22).\n- Retained branch: `skill/031-leakage-proof-as-of-evaluation`; lesson commit `97c5a043f043461a410c2fd0c5313ac48367c02c`.\n- Public edition: independently authored with generic roles and fictional examples.\n- Public lesson SHA-256: `ac34cf45717f57a9d5ee296100788dacfc7dd27fa755d5fc938350dbd2d0eb7d`.\n- Privacy review: heuristic scan and manual review found no private learner, venture, repository, person, customer, email, credential, private URL, financial, or proprietary implementation detail.\n- Practice status: **PENDING**.\n- Next lesson: **#032**, unless a newer verified output exists.\n
+
+## Skill #031 continuation
+
+- Lesson: **Leakage-Proof As-Of Evaluation** (2026-11-22).
+- Retained branch: `skill/031-leakage-proof-as-of-evaluation`; lesson commit `97c5a043f043461a410c2fd0c5313ac48367c02c`.
+- Public edition: independently authored with generic roles and fictional examples.
+- Public lesson SHA-256: `ac34cf45717f57a9d5ee296100788dacfc7dd27fa755d5fc938350dbd2d0eb7d`.
+- Privacy review: heuristic scan and manual review found no private learner, venture, repository, person, customer, email, credential, private URL, financial, or proprietary implementation detail.
+- Practice status: **PENDING**.
+- Next lesson: **#032**, unless a newer verified output exists.
