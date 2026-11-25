@@ -79,7 +79,8 @@ Anyone copying this project should start with `README.md`, `docs/IMPLEMENTATION.
 ## Skill #032 continuation
 
 - Lesson: **Protocol-Pure Agent Harnesses** (2026-11-24).
-- Retained branch: \`skill/032-protocol-pure-agent-harnesses\`.
+- Retained branch: `skill/032-protocol-pure-agent-harnesses`.
+- Curriculum pull request: #13, merged after public learner checks run `45523935917` passed.
 - Public edition: independently authored with generic roles and fictional examples.
 - Privacy review: heuristic scan and manual review found no private learner, venture, repository, person, customer, email, credential, private URL, financial, or proprietary implementation detail.
 - Practice status: **PENDING**.
