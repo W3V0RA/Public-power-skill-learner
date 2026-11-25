@@ -74,3 +74,13 @@ Anyone copying this project should start with `README.md`, `docs/IMPLEMENTATION.
 - Privacy review: heuristic scan and manual review found no private learner, venture, repository, person, customer, email, credential, private URL, financial, or proprietary implementation detail.
 - Practice status: **PENDING**.
 - Next lesson: **#032**, unless a newer verified output exists.
+
+
+## Skill #032 continuation
+
+- Lesson: **Protocol-Pure Agent Harnesses** (2026-11-24).
+- Retained branch: \`skill/032-protocol-pure-agent-harnesses\`.
+- Public edition: independently authored with generic roles and fictional examples.
+- Privacy review: heuristic scan and manual review found no private learner, venture, repository, person, customer, email, credential, private URL, financial, or proprietary implementation detail.
+- Practice status: **PENDING**.
+- Next lesson: **#033**, unless a newer verified output exists.
