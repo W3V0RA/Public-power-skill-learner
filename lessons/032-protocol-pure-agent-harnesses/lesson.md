@@ -78,6 +78,8 @@ The critical invariant is: **failure produces no protocol answer**.
 
 **Concrete use case:** wrap a fictional support agent's one-shot benchmark handler, inject a startup `print()`, and require zero answer bytes plus a non-zero exit status.
 
+**Authoritative references:** [Python subprocess documentation](https://docs.python.org/3/library/subprocess.html), [MCP TypeScript SDK: serving over stdio](https://ts.sdk.modelcontextprotocol.io/v2/serving/stdio), and [MCP Python SDK: logging](https://py.sdk.modelcontextprotocol.io/handlers/logging/).
+
 ## Practice reps
 
 ### Rep 1 — Classify every byte
