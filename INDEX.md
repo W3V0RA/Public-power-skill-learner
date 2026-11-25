@@ -49,6 +49,6 @@ All lesson scenarios are generic, fictional and independently adapted for the pu
 
 | 31 | [Leakage-Proof As-Of Evaluation](lessons/031-leakage-proof-as-of-evaluation/lesson.md) | `skill/031-leakage-proof-as-of-evaluation` | Educational, not practiced |
 
-| 32 | [Protocol-Pure Agent Harnesses](lessons/032-protocol-pure-agent-harnesses/lesson.md) | \`skill/032-protocol-pure-agent-harnesses\` | Educational, not practiced |
+| 32 | [Protocol-Pure Agent Harnesses](lessons/032-protocol-pure-agent-harnesses/lesson.md) | `skill/032-protocol-pure-agent-harnesses` | Educational, not practiced |
 
 Each branch retains its own lesson. This public index is a curriculum, not a release log for anyone’s private projects. Start with the [interview](docs/INTERVIEW.md) or the local `python3 scripts/interview.py` command.
