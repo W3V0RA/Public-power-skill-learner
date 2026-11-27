@@ -51,4 +51,6 @@ All lesson scenarios are generic, fictional and independently adapted for the pu
 
 | 32 | [Protocol-Pure Agent Harnesses](lessons/032-protocol-pure-agent-harnesses/lesson.md) | `skill/032-protocol-pure-agent-harnesses` | Educational, not practiced |
 
+| 33 | [Minimum-Detectable-Effect Contracts](lessons/033-minimum-detectable-effect-contracts/lesson.md) | `skill/033-minimum-detectable-effect-contracts` | Educational, not practiced |
+
 Each branch retains its own lesson. This public index is a curriculum, not a release log for anyone’s private projects. Start with the [interview](docs/INTERVIEW.md) or the local `python3 scripts/interview.py` command.

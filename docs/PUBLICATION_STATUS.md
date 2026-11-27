@@ -85,3 +85,15 @@ Anyone copying this project should start with `README.md`, `docs/IMPLEMENTATION.
 - Privacy review: heuristic scan and manual review found no private learner, venture, repository, person, customer, email, credential, private URL, financial, or proprietary implementation detail.
 - Practice status: **PENDING**.
 - Next lesson: **#033**, unless a newer verified output exists.
+
+
+## Skill #033 continuation
+
+- Lesson: **Minimum-Detectable-Effect Contracts** (2026-11-26).
+- Retained branch: `skill/033-minimum-detectable-effect-contracts`; initial lesson commit `58deb3310025220719be20bcb4d6cd1564565847`.
+- Public curriculum pull request: #14.
+- Public edition: independently authored with generic roles and fictional examples.
+- Public lesson SHA-256: `348a593a19b665055eac47def0808e1714ebdcbb8475605853e4869846304575`.
+- Privacy review: heuristic scan and manual review found no private learner, venture, repository, person, customer, email, credential, private URL, financial, or proprietary implementation detail.
+- Practice status: **PENDING**.
+- Next lesson: **#034**, unless a newer verified output exists.
