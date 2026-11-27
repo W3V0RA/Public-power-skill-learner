@@ -97,3 +97,10 @@ Anyone copying this project should start with `README.md`, `docs/IMPLEMENTATION.
 - Privacy review: heuristic scan and manual review found no private learner, venture, repository, person, customer, email, credential, private URL, financial, or proprietary implementation detail.
 - Practice status: **PENDING**.
 - Next lesson: **#034**, unless a newer verified output exists.
+
+
+### Skill #033 final readback
+
+- Public curriculum PR #14 merged as `40dfebecd04f435ca5c95f6a9222b08f22d81a9b` after public learner checks run `45920928098` succeeded.
+- The retained branch `skill/033-minimum-detectable-effect-contracts` remains at `a711e8c5cb3b032b1cab8b5721d24464a2bee44f`.
+- Lesson and index were read back from `main`; practice remains **PENDING**.
